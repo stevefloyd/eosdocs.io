@@ -28,6 +28,10 @@ weight: 4
 * [Building a To-do list with EOS](https://steemit.com/eos/@eos-asia/part-2-building-a-to-do-list-with-eos-or-working-with-persistent-data-in-eos)
 * https://github.com/jafri/eos-debug
 
+#### Glossaries
+
+* [Token Holder Education: The EOS Glossary](https://steemit.com/cryptocurrency/@eostribe/token-holder-education-the-eos-glossary)
+
 #### Ricardian Contracts
 
 * [Introduction to Ricardian Contracts](https://www.eoscanada.com/en/introduction-to-ricardian-contracts)
