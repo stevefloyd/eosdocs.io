@@ -50,6 +50,7 @@ weight: 2
 ## Community Projects
 
 - [EOS Scholar Testnet](https://scholar.eosnation.io/)[ / Intro post](https://steemit.com/eos/@eosnation/eos-io-scholar-testnet)[ / GitHub](https://github.com/ScholarTestnet) / [Telegram](https://t.me/ScholarTestnet) - Educational material to Block Producers involved in the EOS Testnet
+- [Arrowhead Testnet](http://arrowhead.eostribe.io/)[ / Intro post](https://steemit.com/cryptocurrency/@eostribe/announcing-arrowhead-and-eos-net-testnets)[ / GitHub](https://github.com/EOSTribe/arrowhead) / [Telegram](https://t.me/joinchat/GjJY7BJrnbIW_S67Zchexg) - A security first testnet project that later became the Ghostbusters/Core group
 - [EOS Index](https://eosindex.io) - Directory of Projects based around EOS
 - [EOS Countdown](https://eoscountdown.com/) - Until EOS.IO MainNet Launch (Created by Jason Hodges)
 - [EOS Drops](https://www.eosdrops.io/) - A Collection of EOS.IO Projects "Air Dropping" Tokens
@@ -88,6 +89,7 @@ weight: 2
   - [EOS Ottawa/Calgary/Sherbrooke](https://t.me/EOSNation)
   - [EOS Toronto/Waterloo](https://t.me/eosto)
   - [EOS New York](https://t.me/joinchat/GmULkkp7EyiWjur4TOT9Kg)
+  - [EOS Dallas](https://t.me/eosdfw)
   - [EOS London](https://t.me/EOSLondon)
   - [EOS Nairobi](https://t.me/eosnairobi)
   - [EOS Hong Kong](https://t.me/EOSHongKong)
@@ -130,6 +132,7 @@ weight: 2
   - United States
     - [EOS New York](https://www.meetup.com/EOS-New-York)
     - [EOS Denver](https://www.meetup.com/EOSDenver/)
+    - [EOS Dallas](https://www.meetup.com/EOSDallas/)
 - Asia
   - South Korea
     - [EOS Seoul](https://www.meetup.com/EOS-Seoul)
@@ -148,6 +151,7 @@ weight: 2
  - [Beyond Bitcoin](https://www.youtube.com/channel/UCBZ9iWWNViVCips2ACk_ckQ)
  - [Clay Albright](https://www.youtube.com/channel/UCh-UuMD55GGfqN8flGYzGpg)
  - [The Awakenment](https://www.youtube.com/channel/UCphVYR2CHULYHf59ZSQMEag)
+ - [The State](https://www.youtube.com/channel/UCKXqMrAW78x1EmDoIVtD-ag)
  - [EOS Educational](https://www.youtube.com/channel/UClgHiX4W1yxyohrif0gEllA)
  - [Ivan on Tech](https://www.youtube.com/user/LiljeqvistIvan)
  - [Go to table of content](#contents)
